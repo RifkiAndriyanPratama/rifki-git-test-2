@@ -7,6 +7,7 @@
 </head>
 <body>
   <h3>halo</h3>
+  <p>hash_hmac_algos</p>
   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum inventore, numquam labore explicabo aliquid atque repellendus perspiciatis molestiae asperiores ratione totam nemo accusantium facilis corporis minus quo officia, iste modi.</p>
 </body>
 </html>
